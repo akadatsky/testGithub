@@ -6,4 +6,8 @@ public class Alex {
         System.out.println("Java");
     }
 
+    public static void cpp() {
+        System.out.println("C++");
+    }
+
 }
