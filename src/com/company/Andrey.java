@@ -8,5 +8,7 @@ public class Andrey {
     public static void test2(){
     }
 
+    public static void test3(){
+    }
 
 }
