@@ -10,4 +10,8 @@ public class Alex {
         System.out.println("C++");
     }
 
+    public static void php() {
+        System.out.println("PHP");
+    }
+
 }
